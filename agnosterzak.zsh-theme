@@ -365,7 +365,7 @@ build_prompt() {
   echo -n "\n"
   prompt_status
   prompt_battery
-  prompt_time
+  # prompt_time
   prompt_virtualenv
   prompt_dir
   prompt_git
